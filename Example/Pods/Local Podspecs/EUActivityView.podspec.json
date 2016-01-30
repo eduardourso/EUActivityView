@@ -1,0 +1,25 @@
+{
+  "name": "EUActivityView",
+  "version": "0.1.0",
+  "summary": "A short description of EUActivityView.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/EUActivityView",
+  "license": "MIT",
+  "authors": {
+    "Eduardo Urso": "eduardourso@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/EUActivityView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "EUActivityView": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}
