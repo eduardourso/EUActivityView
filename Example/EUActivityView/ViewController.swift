@@ -18,8 +18,8 @@ class ViewController: UIViewController {
         //Usage:
         
         //Color customization
-//        self.activityView.customBackgroundColor = UIColor.yellowColor()
-//        self.activityView.customActivityIndicatorColor = UIColor.greenColor()
+        self.activityView.customBackgroundColor = UIColor.clearColor()
+        self.activityView.customActivityIndicatorColor = UIColor.greenColor()
 
         //Custom styles
 //        activityView.showDefaultActivityView(self.view)
@@ -28,7 +28,7 @@ class ViewController: UIViewController {
 
         let time = dispatch_time(DISPATCH_TIME_NOW, Int64(5 * Double(NSEC_PER_SEC)))
         dispatch_after(time, dispatch_get_main_queue()) { () -> Void in
-            self.activityView.hideLoadingView()
+//            self.activityView.hideLoadingView()
         }
     }
 
