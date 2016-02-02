@@ -5,6 +5,11 @@
 [![License](https://img.shields.io/cocoapods/l/EUActivityView.svg?style=flat)](http://cocoapods.org/pods/EUActivityView)
 [![Platform](https://img.shields.io/cocoapods/p/EUActivityView.svg?style=flat)](http://cocoapods.org/pods/EUActivityView)
 
+## Demo
+
+![alt tag](https://raw.githubusercontent.com/eduardourso/EUActivityView/Example/animation.gif)
+![alt tag](https://raw.githubusercontent.com/eduardourso/EUActivityView/Example/animation2.gif)
+
 ## Usage
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
