@@ -7,7 +7,7 @@
 
 ## Demo
 
-![alt tag](https://github.com/eduardourso/EUActivityView/Example/animation.gif)
+![alt tag](https://raw.github.com/eduardourso/EUActivityView/master/Example/animation.gif)
 ![alt tag](https://github.com/eduardourso/EUActivityView/Example/animation2.gif)
 
 ## Usage
