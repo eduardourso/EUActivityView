@@ -1,6 +1,6 @@
 # EUActivityView
 
-[![CI Status](http://img.shields.io/travis/Eduardo Urso/EUActivityView.svg?style=flat)](https://travis-ci.org/Eduardo Urso/EUActivityView)
+[![CI Status](http://img.shields.io/travis/eduardourso/EUActivityView.svg?style=flat)](https://travis-ci.org/eduardourso/EUActivityView)
 [![Version](https://img.shields.io/cocoapods/v/EUActivityView.svg?style=flat)](http://cocoapods.org/pods/EUActivityView)
 [![License](https://img.shields.io/cocoapods/l/EUActivityView.svg?style=flat)](http://cocoapods.org/pods/EUActivityView)
 [![Platform](https://img.shields.io/cocoapods/p/EUActivityView.svg?style=flat)](http://cocoapods.org/pods/EUActivityView)
